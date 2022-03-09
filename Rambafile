@@ -1,0 +1,23 @@
+### Headers settings
+company: ExchangeTestBlanc
+
+# The file path for new modules
+project_file_path: ExchangeTestBlanc
+
+# The Xcode group path to new modules
+project_group_path: ExchangeTestBlanc
+
+### Xcode project settings
+project_name: ExchangeTestBlanc
+xcodeproj_path: /Users/aleksandr/Documents/Projects/ExchangeTestBlanc/ExchangeTestBlanc.xcodeproj 
+
+### Code generation settings section
+# The main project target name
+project_target: ExchangeTestBlanc
+
+### Templates
+catalogs:
+- 'https://github.com/strongself/generamba-catalog'
+- 'https://github.com/Destplay/Templates-iOS-for-Generamba'
+templates:
+- {name: original_clean_architecture}
